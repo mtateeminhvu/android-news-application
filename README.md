@@ -31,17 +31,17 @@
 <!--Screenshots (GIFs/PNGs)-->
 <h2>Overview</h2>
 <p align="center">
-  <img src="https://github.com/mtateeminhvu/android-news-application/Home.jpg">
+  <img src="https://github.com/mtateeminhvu/android-news-application/blob/main/Home.jpg">
 </p>
 
 <h2>Category</h2>
 <p align="center">
-  <img src="https://github.com/mtateeminhvu/android-news-application/Category.jpg">
+  <img src="https://github.com/mtateeminhvu/android-news-application/blob/main/Category.jpg">
 </p>
 
 <h2>Specific</h2>
 <p align="center">
-  <img src="https://github.com/mtateeminhvu/android-news-application/Specific.jpg">
+  <img src="https://github.com/mtateeminhvu/android-news-application/blob/main/Specific.jpg">
 </p>
 
 
