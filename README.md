@@ -7,6 +7,8 @@
 <h2>Technologies</h2>
 <ul>
   <li><b>JDK 11 - Java Version</b></li>
+  <li><b>API: https://newsapi.org</b></li>
+  
   <li><b>Gradle: 7.4</b></li>
   <li><b>Android Gradle Plugin: 7.3.0</b></li>
   <li><b>Picasso: 2.71828</b></li>
